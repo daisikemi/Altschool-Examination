@@ -6,8 +6,8 @@ Book Management: Add and manage book details, including availability.
 Borrow Records: Track borrowed books, including borrow and return dates.
 Return Book: Mark a borrowed book as returned, updating its availability and return date.
 Installation
-Clone the repository: git clone https://github.com/your-username/fastapi-library-app.git
-cd fastapi-library-app
+Clone the repository: git clone https://github.com/daisikemi/Altschool-Examination.git
+cd Altschool-Examination.
 Create a virtual environment and activate it: python -m venv venv, source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install dependencies: pip install -r requirements.txt
 Run the application: uvicorn main:app --reload
